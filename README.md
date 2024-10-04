@@ -1,2 +1,2 @@
-# Spring-2024-Python-Programs
-This repository contains Python programs completed during the Spring 2024 semester.
+# Spring-2024-Python
+This repository contains the list of Python programs completed during the Spring 2024 semester.
