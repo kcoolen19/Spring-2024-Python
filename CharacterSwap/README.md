@@ -1,4 +1,4 @@
-# Question Details
+# Problem Details
 Create a list comprehension that modifies a list of strings by swapping the last two characters of each string. <br />
 
 For example, if the list contains the strings ["hello", "comp", "student"] the modified list should contain ["helol", "copm", "studetn"].<br /> 
